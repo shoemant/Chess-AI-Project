@@ -1,4 +1,4 @@
-# Chess AI Project
+# Chess AI
 A personal C++ project featuring a fully functional chess game with an intelligent AI opponent and a graphical user interface built using SFML.
 # Project Overview
 This Chess AI project is a comprehensive implementation of the classic game of chess in C++. It includes a robust AI opponent that leverages advanced algorithms to make strategic decisions, 
@@ -35,9 +35,9 @@ ensuring challenging gameplay. The graphical user interface (GUI) is developed u
 1. Clone the repository
 
 ```
-git clone 'https://github.com/shoemant/chess-ai-project.git'
+git clone 'https://github.com/shoemant/chess-ai.git'
 
-git chess-ai-project
+git chess-ai
 ```
 
 2. Install SFML
